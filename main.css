@@ -1,0 +1,57 @@
+.page1{
+  background-color: #b5838d;
+}
+.page2{
+  background-color: #E5989B;
+}
+.page3{
+  background-color: #FFB4A2;
+
+}
+.contact{
+  background-color: #ffcdb2;
+}
+.iphone{
+  height:700px ;
+  width:450px ;
+}
+.row{
+  display:flex;
+  justify-content:center;
+}
+.col1{
+  display:flex;
+  height:200px ;
+  width:200px ;
+  justify-content:center;
+  align-items:center;
+  border: 1px solid black;
+  margin: 10px;
+}
+.apple {
+  height:100px ;
+  width:150px ;
+}
+
+.android{
+  height:100px ;
+  width:100px ;
+}
+.google{
+  height:100px ;
+  width:100px ;
+
+}
+.text{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+
+}
+.carousel-caption{
+  margin:0;
+  text-align: center;
+
+
+}
